@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonintouss@gmail.com)
 
 #### About
-Web developer improving on full stack development at <br> [![RocketSeat](https://i.imgur.com/l31c76q.jpg)](https://rocketseat.com.br/)
+Web developer improving on full stack development. <br> 
 
 
 
@@ -18,6 +18,7 @@ Web developer improving on full stack development at <br> [![RocketSeat](https:/
 
 - Backend: <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4?style=flat-square">
 </div>
 
 - Layout Design: <div style="display: inline_block">
